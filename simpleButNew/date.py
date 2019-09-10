@@ -1,0 +1,5 @@
+exam_date = input("Enter date:")
+date = exam_date.split(',')
+print(date[0] +'/' +date[1] +'/' +date[2])
+new = (11,2,99)
+print("%i/%i/%i"%new)
