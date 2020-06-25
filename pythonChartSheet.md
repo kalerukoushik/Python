@@ -1,4 +1,4 @@
-# 30 Days of Python: Cheat Sheet
+Python: Cheat Sheet
 A quick reference guide for using the Python Programming language.
 
 
